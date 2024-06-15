@@ -9,7 +9,7 @@ Take a number in the form of String from stdin.
 Output Format:, 
 
 Print the difference between sum of even and odd digits
-
+ 
 Example input:
 
 1453
