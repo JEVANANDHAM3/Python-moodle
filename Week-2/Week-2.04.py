@@ -4,7 +4,7 @@ Write a python program that takes a integer between 0 and 15 as input and displa
 
 Sample Input
 
-3
+3 
 
 Sample Output:
 
