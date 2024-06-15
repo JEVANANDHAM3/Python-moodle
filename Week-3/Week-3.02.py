@@ -7,7 +7,7 @@ Write a program that reads the lengths of the three sides of a triangle from the
 Sample Input 1
 
 60
-
+ 
 60
 
 60
