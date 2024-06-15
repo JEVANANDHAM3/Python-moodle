@@ -8,7 +8,7 @@ Write a program that takes as input a string (sentence), and returns its second 
 
 For example:
 
-
+ 
 
 If input is “Wipro Technologies Bangalore” the function should return “TECHNOLOGIES”
 
