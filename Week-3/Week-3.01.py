@@ -8,7 +8,7 @@ Marks in Physics >= 55
 
 Marks in Chemistry >= 50
 
-Or
+Or 
 
 Total in all three subjects >= 180
 
