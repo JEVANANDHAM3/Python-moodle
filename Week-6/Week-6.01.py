@@ -3,7 +3,7 @@ Count Chars
 Write a python program to count all letters, digits, and special symbols respectively from a given string
 
 
-
+ 
 For example:
 
 
