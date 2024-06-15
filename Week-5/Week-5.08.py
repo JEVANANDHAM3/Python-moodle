@@ -16,7 +16,7 @@ Output Format
 
 Display the merged array
 
-
+ 
 
 Sample Input 1
 
