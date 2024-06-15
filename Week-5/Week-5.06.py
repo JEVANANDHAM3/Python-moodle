@@ -4,7 +4,7 @@ Determine the factors of a number (i.e., all positive integer values that evenly
 
 Constraints
 
-1 ≤ n ≤ 1015
+1 ≤ n ≤ 1015 
 
 1 ≤ p ≤ 109
 
