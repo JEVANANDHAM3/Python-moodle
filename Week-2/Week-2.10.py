@@ -4,7 +4,7 @@ Write a program that returns the last digit of the given number. Last digit is b
 
 The last digit should be returned as a positive number.
 
-For example,
+For example, 
 
 if the given number is 197, the last digit is 7
 
