@@ -5,7 +5,7 @@ A Number is said to be Disarium number when the sum of its digit raised to the p
 
 
 Input Format:
-
+ 
 Single Integer Input from stdin.
 
 Output Format:
