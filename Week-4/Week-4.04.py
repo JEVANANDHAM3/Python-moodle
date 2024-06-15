@@ -2,7 +2,7 @@ Next Perfect Square
 
 Given a number N, find the next perfect square greater than N.
 
-Input Format:
+Input Format: 
 
 Integer input from stdin.
 
