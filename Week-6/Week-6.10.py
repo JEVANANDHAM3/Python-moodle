@@ -3,7 +3,7 @@ Username Domain Extension
 Given a string S which is of the format USERNAME@DOMAIN.EXTENSION, the program must print the EXTENSION, DOMAIN, USERNAME in the reverse order.
 
 
-
+ 
 Input Format:
 
 The first line contains S.
